@@ -31,6 +31,7 @@
     "markdown-it-regexp": "^0.4.0",
     "mobx-react": "^7.2.0",
     "mobx-react-lite": "^3.2.1",
+    "react-native-webview": "^11.22.7",
     "path-browserify": "^0.0.0",
     "process": "^0.11.10",
     "punycode": "^1.4.1",
